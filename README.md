@@ -1,2 +1,0 @@
-# yardstick-assignment
-yardstick-assignment
